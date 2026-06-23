@@ -1,0 +1,7 @@
+<suite name="W3W Suite">
+    <test name="Search Tests">
+        <classes>
+            <class name="tests.SearchTest"/>
+        </classes>
+    </test>
+</suite>
