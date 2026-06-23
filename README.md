@@ -1,4 +1,4 @@
-# What3Words Mobile Automation
+# What3Words Appium 
 
 ## Platform
 Android
